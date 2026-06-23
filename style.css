@@ -1,0 +1,27 @@
+inf{
+    color:rgb(0, 0, 0);
+    background-color: rgba(255, 91, 91, 0.903);
+}
+h1 {
+    background-image: url("https://st2.depositphotos.com/1010652/5980/v/950/depositphotos_59807071-stock-illustration-children-holding-hands.jpg");
+    height: 256px;
+}
+h2{
+    color: rgb(59, 98, 255);
+    font-size: 200%;
+}
+
+coracao{
+    color:red;
+    font-size: 1000%;
+}
+
+coracaotexto{
+    color:red;
+    font-size: 200%;
+}
+
+img {
+    height: 128px;
+    width: 128px;
+}
